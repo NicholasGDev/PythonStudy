@@ -1,4 +1,4 @@
-from TestePython import TestePython
+from firstStudy.TestePython import TestePython
 
 class Main:
     
